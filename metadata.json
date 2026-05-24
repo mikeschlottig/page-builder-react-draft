@@ -1,0 +1,6 @@
+{
+  "name": "High Density Layout",
+  "description": "A complex, dense developer-centric UI theme with a dark color palette, tight spacing, and structured tool layouts.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
